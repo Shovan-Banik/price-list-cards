@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "features": [
+            "Access to gym equipment during off-peak hours",
+            "Personalized workout plan",
+            "Locker rental"
+        ],
+        "price": 70
+    },
+    {
+        "id": 2,
+        "name": "Premium Membership",
+        "features": [
+            "Access to gym equipment during peak hours",
+            "One-on-one personal training session",
+            "Towel service"
+        ],
+        "price": 95
+    },
+    {
+        "id": 3,
+        "name": "Ultimate Membership",
+        "features": [
+            "Access to gym equipment at all times",
+            "Group fitness classes",
+            "Sauna access"
+        ],
+        "price": 130
+    }
+]
